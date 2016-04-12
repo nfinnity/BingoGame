@@ -32,8 +32,13 @@ Algorithm Analysis and Methods:
  and changed all of the "0"'s that had occurred to "X"'s. 
 
 
+
+
 Types and Size of Data Structures:
+
 -Two 2D arrays were used (one of int type and one of String type) that were each [5][5]. (A bingo card has 5 rows and 5 columns)
+
 -A bitSet was used of size (75). (75 different numbers could be called)
+
 -An int array was used of size (75) for the numbers that were called. (75 different numbers could be called).
 
